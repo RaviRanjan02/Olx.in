@@ -22,6 +22,8 @@ The project has been completed within the duration of 5 days. Each of us had sha
 - Reqres api (login)
 - Json-Server
 - Chakra UI
+- React Slick-Slider
+- React-icons
 - Protected Routes(only accesible after login)
 - Responsiveness
 
