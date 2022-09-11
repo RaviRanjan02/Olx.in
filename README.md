@@ -1,4 +1,4 @@
-# Booking.com - Clone
+# Olx.in
 
 ## Team members:
 1. Rupesh Chavan (Team Lead)
