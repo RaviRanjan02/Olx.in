@@ -28,7 +28,7 @@ The project has been completed within the duration of 5 days. Each of us had sha
 - Responsiveness
 
 
-## Glimpse and screenshots of our cloned website:
+## Glimpse and screenshots of our website:
 
 **Landing Page**
 ![Screenshot_226](https://user-images.githubusercontent.com/91020498/189518339-de8b749d-73fa-4057-8680-aba2975f1afa.png)
