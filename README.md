@@ -90,6 +90,7 @@ The project has been completed within the duration of 5 days. Each of us had sha
     4. Added all routes to all pages.
     5. Deployed the backend on heroku with json server.
     6. added media queries to navbar and landing page.
+    7. Authenticated user using reqres.in
     
 
 <br>
