@@ -1,10 +1,10 @@
 # Olx.in
 
-## Team members:
+## Team Members:
 1. Rupesh Chavan (Team Lead)
 2. Ravi Ranjan
 3. Anurag Singh Rajawat
-4. RAVI BHUSHAN
+4. Ravi Bhushan
 5. Rasheed shaik
 
 
@@ -15,7 +15,7 @@ The project has been completed within the duration of 5 days. Each of us had sha
 
 **Original website link**: https://www.olx.in/
 
-## Tech Stack and features
+## Tech Stack
 - React
 - Redux
 - Redux Thunks
@@ -106,7 +106,7 @@ The project has been completed within the duration of 5 days. Each of us had sha
 
 <br>
 
-  ⁍ RAVI BHUSHAN:
+  ⁍ Ravi Bhushan:
 
     Contribution:
     
